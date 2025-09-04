@@ -1,1 +1,5 @@
+git add .
+
+git commit -m "提交"
+
 git remote add origin git@github.com:akjshfkasj/cmn.git
