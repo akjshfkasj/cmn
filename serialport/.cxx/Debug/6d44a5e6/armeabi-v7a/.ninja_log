@@ -1,0 +1,19 @@
+# ninja log v5
+0	163	7748549438144860	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	86fe66bf31f6778d
+164	369	7748549440252743	../../../../build/intermediates/cxx/Debug/6d44a5e6/obj/armeabi-v7a/libserial_port.so	b99ca3cdb47a22df
+0	46	0	clean	70160bcbcf61e57c
+2	436	7754572078144443	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	86fe66bf31f6778d
+437	712	7754572081036501	../../../../build/intermediates/cxx/Debug/6d44a5e6/obj/armeabi-v7a/libserial_port.so	b99ca3cdb47a22df
+0	49	0	clean	70160bcbcf61e57c
+0	51	0	clean	70160bcbcf61e57c
+2	164	7754572645594802	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	86fe66bf31f6778d
+164	364	7754572647652160	../../../../build/intermediates/cxx/Debug/6d44a5e6/obj/armeabi-v7a/libserial_port.so	b99ca3cdb47a22df
+0	48	0	clean	70160bcbcf61e57c
+0	51	0	clean	70160bcbcf61e57c
+0	72	0	clean	70160bcbcf61e57c
+2	204	7754574696217285	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	86fe66bf31f6778d
+205	405	7754574698323462	../../../../build/intermediates/cxx/Debug/6d44a5e6/obj/armeabi-v7a/libserial_port.so	b99ca3cdb47a22df
+0	53	0	clean	70160bcbcf61e57c
+0	55	0	clean	70160bcbcf61e57c
+2	172	7754575159214346	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	86fe66bf31f6778d
+172	390	7754575161459507	../../../../build/intermediates/cxx/Debug/6d44a5e6/obj/armeabi-v7a/libserial_port.so	b99ca3cdb47a22df

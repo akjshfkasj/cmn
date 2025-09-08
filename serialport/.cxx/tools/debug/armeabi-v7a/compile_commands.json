@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Myproject/FIA2/MyApplication6/serialport/.cxx/Debug/535w276h/armeabi-v7a",
+  "command": "D:\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --sysroot=D:/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dserial_port_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\serial_port.dir\\src\\main\\cpp\\SerialPort.c.o -c D:\\Myproject\\FIA2\\MyApplication6\\serialport\\src\\main\\cpp\\SerialPort.c",
+  "file": "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\src\\main\\cpp\\SerialPort.c"
+}
+]

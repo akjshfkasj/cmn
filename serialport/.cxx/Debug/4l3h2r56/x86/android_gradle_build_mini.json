@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\.cxx\\Debug\\4l3h2r56\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\.cxx\\Debug\\4l3h2r56\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "serial_port::@6890427a1f51a3e7e1df": {
+      "artifactName": "serial_port",
+      "abi": "x86",
+      "output": "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\build\\intermediates\\cxx\\Debug\\4l3h2r56\\obj\\x86\\libserial_port.so",
+      "runtimeFiles": [
+        "D:\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\21\\liblog.so"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+D:/Myproject/FIA2/MyApplication6/serialport/.cxx/Debug/4l3h2r56/x86/CMakeFiles/serial_port.dir
+D:/Myproject/FIA2/MyApplication6/serialport/.cxx/Debug/4l3h2r56/x86/CMakeFiles/edit_cache.dir
+D:/Myproject/FIA2/MyApplication6/serialport/.cxx/Debug/4l3h2r56/x86/CMakeFiles/rebuild_cache.dir

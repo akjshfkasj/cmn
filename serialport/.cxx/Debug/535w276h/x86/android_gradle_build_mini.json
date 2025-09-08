@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\.cxx\\Debug\\535w276h\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\.cxx\\Debug\\535w276h\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "serial_port::@6890427a1f51a3e7e1df": {
+      "artifactName": "serial_port",
+      "abi": "x86",
+      "output": "D:\\Myproject\\FIA2\\MyApplication6\\serialport\\build\\intermediates\\cxx\\Debug\\535w276h\\obj\\x86\\libserial_port.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# ninja log v5
+1	311	7748558074835283	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	3c15cd80617eb42d
+313	583	7748558077608709	../../../../build/intermediates/cxx/RelWithDebInfo/4oy6a4r5/obj/arm64-v8a/libserial_port.so	41f13c2bbdc67e74
+0	66	0	clean	70160bcbcf61e57c
+0	52	0	clean	70160bcbcf61e57c
+0	57	0	clean	70160bcbcf61e57c
+0	49	0	clean	70160bcbcf61e57c
+0	49	0	clean	70160bcbcf61e57c
+0	51	0	clean	70160bcbcf61e57c
+0	47	0	clean	70160bcbcf61e57c
+0	50	0	clean	70160bcbcf61e57c
+3	358	7754575524237060	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	3c15cd80617eb42d
+359	767	7754575528407484	../../../../build/intermediates/cxx/RelWithDebInfo/4oy6a4r5/obj/arm64-v8a/libserial_port.so	41f13c2bbdc67e74

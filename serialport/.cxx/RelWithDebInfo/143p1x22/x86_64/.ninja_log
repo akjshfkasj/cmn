@@ -1,0 +1,24 @@
+# ninja log v5
+1	312	7754587680773728	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+314	585	7754587683578315	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	55	0	clean	70160bcbcf61e57c
+1	51	0	clean	70160bcbcf61e57c
+2	226	7754597326451072	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+227	473	7754597329003994	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	50	0	clean	70160bcbcf61e57c
+0	47	0	clean	70160bcbcf61e57c
+2	182	7754628309687943	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+183	379	7754628311719774	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	52	0	clean	70160bcbcf61e57c
+2	195	7756330781100673	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+196	408	7756330783296061	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	54	0	clean	70160bcbcf61e57c
+2	204	7756334948232555	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+204	411	7756334950366439	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	66	0	clean	70160bcbcf61e57c
+2	201	7756345733322539	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+201	439	7756345735744042	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
+0	140	0	clean	70160bcbcf61e57c
+1	64	0	clean	70160bcbcf61e57c
+2	214	7756348398047680	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	8cb1af2a72ec7cdf
+214	466	7756348400632087	../../../../build/intermediates/cxx/RelWithDebInfo/143p1x22/obj/x86_64/libserial_port.so	23bbde154085a36d
